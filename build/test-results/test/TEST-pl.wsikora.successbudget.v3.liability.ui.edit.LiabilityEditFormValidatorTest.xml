@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.wsikora.successbudget.v3.liability.ui.edit.LiabilityEditFormValidatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-06-23T22:56:01" hostname="wsikora" time="0.015">
+  <properties/>
+  <testcase name="shouldAlreadyRepaidAmountBeLessThanTotalAmount()" classname="pl.wsikora.successbudget.v3.liability.ui.edit.LiabilityEditFormValidatorTest" time="0.01"/>
+  <testcase name="shouldRejectNonUniqueName()" classname="pl.wsikora.successbudget.v3.liability.ui.edit.LiabilityEditFormValidatorTest" time="0.001"/>
+  <testcase name="shouldMinimumMonthlyAmountAndAlreadyRepaidAmountBeLessThanTotalAmount()" classname="pl.wsikora.successbudget.v3.liability.ui.edit.LiabilityEditFormValidatorTest" time="0.001"/>
+  <testcase name="shouldMinimumMonthlyAmountBeLessThanTotalAmount()" classname="pl.wsikora.successbudget.v3.liability.ui.edit.LiabilityEditFormValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

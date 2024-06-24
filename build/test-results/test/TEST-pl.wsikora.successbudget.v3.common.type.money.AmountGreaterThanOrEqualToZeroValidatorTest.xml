@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.wsikora.successbudget.v3.common.type.money.AmountGreaterThanOrEqualToZeroValidatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-06-23T22:56:00" hostname="wsikora" time="0.003">
+  <properties/>
+  <testcase name="shouldDetectTooLowAmount()" classname="pl.wsikora.successbudget.v3.common.type.money.AmountGreaterThanOrEqualToZeroValidatorTest" time="0.001"/>
+  <testcase name="shouldDetectTooHighAmount()" classname="pl.wsikora.successbudget.v3.common.type.money.AmountGreaterThanOrEqualToZeroValidatorTest" time="0.0"/>
+  <testcase name="shouldDetectNullAmount()" classname="pl.wsikora.successbudget.v3.common.type.money.AmountGreaterThanOrEqualToZeroValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

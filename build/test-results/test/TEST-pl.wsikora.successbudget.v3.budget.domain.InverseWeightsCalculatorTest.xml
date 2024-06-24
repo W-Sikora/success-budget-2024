@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.wsikora.successbudget.v3.budget.domain.InverseWeightsCalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-06-23T22:56:00" hostname="wsikora" time="0.008">
+  <properties/>
+  <testcase name="shouldCalculateWithSingleCriteria()" classname="pl.wsikora.successbudget.v3.budget.domain.InverseWeightsCalculatorTest" time="0.005"/>
+  <testcase name="shouldNotCalculateWithNegativeCriteria()" classname="pl.wsikora.successbudget.v3.budget.domain.InverseWeightsCalculatorTest" time="0.001"/>
+  <testcase name="shouldNotCalculateWithZeroCriteria()" classname="pl.wsikora.successbudget.v3.budget.domain.InverseWeightsCalculatorTest" time="0.001"/>
+  <testcase name="shouldCalculateWithMultipleCriteria()" classname="pl.wsikora.successbudget.v3.budget.domain.InverseWeightsCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

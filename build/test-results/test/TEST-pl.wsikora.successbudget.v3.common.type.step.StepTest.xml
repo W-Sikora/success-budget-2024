@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.wsikora.successbudget.v3.common.type.step.StepTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-06-23T22:56:00" hostname="wsikora" time="0.04">
+  <properties/>
+  <testcase name="[1] step=INCOME, expectedNextStep=LIABILITY" classname="pl.wsikora.successbudget.v3.common.type.step.StepTest" time="0.034"/>
+  <testcase name="[2] step=LIABILITY, expectedNextStep=CATEGORY" classname="pl.wsikora.successbudget.v3.common.type.step.StepTest" time="0.0"/>
+  <testcase name="[3] step=CATEGORY, expectedNextStep=SHOULD_CATEGORY_PREFERENCE" classname="pl.wsikora.successbudget.v3.common.type.step.StepTest" time="0.001"/>
+  <testcase name="[4] step=SHOULD_CATEGORY_PREFERENCE, expectedNextStep=COULD_CATEGORY_PREFERENCE" classname="pl.wsikora.successbudget.v3.common.type.step.StepTest" time="0.0"/>
+  <testcase name="[5] step=COULD_CATEGORY_PREFERENCE, expectedNextStep=WOULD_CATEGORY_PREFERENCE" classname="pl.wsikora.successbudget.v3.common.type.step.StepTest" time="0.0"/>
+  <testcase name="[6] step=WOULD_CATEGORY_PREFERENCE, expectedNextStep=EXPENSE" classname="pl.wsikora.successbudget.v3.common.type.step.StepTest" time="0.001"/>
+  <testcase name="[7] step=EXPENSE, expectedNextStep=BUDGET_PREFERENCE" classname="pl.wsikora.successbudget.v3.common.type.step.StepTest" time="0.0"/>
+  <testcase name="[8] step=BUDGET_PREFERENCE, expectedNextStep=AMOUNT_SETTING" classname="pl.wsikora.successbudget.v3.common.type.step.StepTest" time="0.0"/>
+  <testcase name="[9] step=AMOUNT_SETTING, expectedNextStep=BUDGET" classname="pl.wsikora.successbudget.v3.common.type.step.StepTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

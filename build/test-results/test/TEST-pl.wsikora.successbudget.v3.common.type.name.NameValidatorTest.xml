@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.wsikora.successbudget.v3.common.type.name.NameValidatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-06-23T22:56:00" hostname="wsikora" time="0.012">
+  <properties/>
+  <testcase name="shouldDetectNullName()" classname="pl.wsikora.successbudget.v3.common.type.name.NameValidatorTest" time="0.001"/>
+  <testcase name="shouldDetectTooShortName()" classname="pl.wsikora.successbudget.v3.common.type.name.NameValidatorTest" time="0.001"/>
+  <testcase name="shouldDetectBlankName()" classname="pl.wsikora.successbudget.v3.common.type.name.NameValidatorTest" time="0.007"/>
+  <testcase name="shouldDetectEmptyName()" classname="pl.wsikora.successbudget.v3.common.type.name.NameValidatorTest" time="0.001"/>
+  <testcase name="shouldDetectTooLongName()" classname="pl.wsikora.successbudget.v3.common.type.name.NameValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

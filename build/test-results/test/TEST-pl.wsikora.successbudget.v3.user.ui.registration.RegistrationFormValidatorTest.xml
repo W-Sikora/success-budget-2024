@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.wsikora.successbudget.v3.user.ui.registration.RegistrationFormValidatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-06-23T22:56:01" hostname="wsikora" time="0.01">
+  <properties/>
+  <testcase name="shouldDetectDifferentPassword()" classname="pl.wsikora.successbudget.v3.user.ui.registration.RegistrationFormValidatorTest" time="0.008"/>
+  <testcase name="shouldDetectNotUniqueUsername()" classname="pl.wsikora.successbudget.v3.user.ui.registration.RegistrationFormValidatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
